@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I-Gave/logger.git"
+  },
+  "author": "alex sherbuck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/I-Gave/logger/issues"
+  },
+  "homepage": "https://github.com/I-Gave/logger#readme",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-format": "^0.2.1"
+  }
+}
